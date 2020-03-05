@@ -1,0 +1,39 @@
+.container {
+    background-color: aqua;
+    width: 100%;
+    margin-top: 100px;
+    
+}
+.cont {
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contador {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nome {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+    text-transform: capitalize;
+}
+.negativo {
+    width: 35px;
+    height: 35px;
+    
+}
+.positivo {
+    width: 35px;
+    height: 35px;
+    
+}
+.num {
+    
+    margin-left: 10px;
+    margin-right: 10px;
+}
